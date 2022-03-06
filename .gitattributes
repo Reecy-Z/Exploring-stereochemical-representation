@@ -1,2 +1,0 @@
-ANSA_model_data filter=lfs diff=lfs merge=lfs -text
-”ANSA_model_data“ filter=lfs diff=lfs merge=lfs -text
