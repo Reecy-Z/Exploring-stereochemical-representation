@@ -5,6 +5,6 @@ All reaction data, descriptors and training results are provided in .csv file in
 
 The architecture and hyperparameters of neural network and XGBoost are included in .py file in each data set folder.
 
-If you want to use FMSSD, please see [FMSSD](https://github.com/Reecy-Z/Exploring-stereochemical-representation/tree/main/FMSSD/feature)
+If you want to use FMSSD, please see [FMSSD](https://github.com/Reecy-Z/Exploring-stereochemical-representation/tree/main/FMSSD/feature).
 
 We also provide analysis code of [corrlation analysis](https://github.com/Reecy-Z/Exploring-stereochemical-representation/blob/main/correlation.py), [PCA](https://github.com/Reecy-Z/Exploring-stereochemical-representation/blob/main/PCA.py) and [similarity analysis](https://github.com/Reecy-Z/Exploring-stereochemical-representation/blob/main/similarity.py).
